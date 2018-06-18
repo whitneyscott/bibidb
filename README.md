@@ -20,5 +20,4 @@ Image
 Cost
 Other???
 
-
-testing new edits in branch "tmp"
+Trying to make changes to "newbranch"
