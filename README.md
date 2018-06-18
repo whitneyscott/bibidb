@@ -19,3 +19,6 @@ Link
 Image
 Cost
 Other???
+
+
+testing new edits in branch "tmp"
